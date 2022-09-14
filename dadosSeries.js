@@ -6,5 +6,11 @@ const dados =
         titulo: "Stranger Things",
         nota: "8.6",
         detalhes: "./strangerDetails.html"
+    },
+    {
+        poster: "https://www.themoviedb.org/t/p/w220_and_h330_face/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg",
+        titulo: "Cobra Kai",
+        nota: "8.2",
+        detalhes: "./cobraDetails.html"
     }
 ]
